@@ -4,7 +4,7 @@
     数据转换函数：TODAY()、WEEKDAY()、TEXT()。
 数据抽取：
     字段分裂：LEFT、RIGHT、MID。
-    字段合并：&。
+    正则：&、？。
     字段匹配：VLOOKUP。
 计算统计：
     条件求和：SUMIF。
